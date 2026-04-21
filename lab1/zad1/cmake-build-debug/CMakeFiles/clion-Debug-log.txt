@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/babrys/Temple/Languages/C/SysOps/lab1/zad1 Select CMakeLists.txt
